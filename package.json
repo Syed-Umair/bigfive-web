@@ -36,7 +36,7 @@
   "dependencies": {
     "@alheimsins/b5-result-text": "github:alheimsins/b5-result-text",
     "@alheimsins/react-google-charts": "1.6.5",
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "b5-calculate-score": "1.0.4",
     "b5-johnson-120-ipip-neo-pi-r": "1.1.22",
     "dotenv": "6.1.0",
